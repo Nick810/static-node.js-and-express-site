@@ -3,5 +3,6 @@ extends layout.pug
 block content
   .not-found-container
     h1 Oh Snaps!
-    p.page-not-found Page not found.
+    p.error-status= err.status
+    p.page-not-found= err.message
     p= err.stack

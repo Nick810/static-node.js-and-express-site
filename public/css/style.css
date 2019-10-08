@@ -175,6 +175,10 @@ a:hover{
   word-break: break-all;
 }
 
-.page-not-found {
+.error-status {
   font-size: 24px;
+}
+
+.page-not-found {
+  font-size: 20px;
 }
