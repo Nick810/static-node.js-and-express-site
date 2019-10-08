@@ -1,0 +1,74 @@
+{
+	"projects": [
+    {
+			"id": 0,
+			"project_name": "A Random Quote Generator",
+			"description": "For this first project, I have to create an app that displays random famous quotes each time a button is clicked. The quotes are automatically randomized every 20 seconds as well. To build this project, the basic JavaScript syntax, variables, loops, conditionals and object literals are used.",
+			"technologies": ["HTML", "CSS", "JavaScript"],
+			"live_link": "https:///Nick810.github.io/a-random-quote-generator",
+			"github_link": "https://github.com/Nick810/a-random-quote-generator",
+			"image_urls": [
+				"/static/images/random-quote-generator_squared.png",
+				"/static/images/random-quote-generator_landscape01.png",
+				"/static/images/random-quote-generator_landscape02.png",
+				"/static/images/random-quote-generator_landscape03.png"
+			]
+		},
+		{
+			"id": 1,
+			"project_name": "List Pagination and Filtering",
+			"description": "For this project, I have to use a common web development technique known as \"pagination\" to enhance the usability of a web page. My goal is to write JavaScript to display 10 names at a time, and add a navigation system -- a series of links at the bottom of the page -- to let users click through the other student entries, 10 at a time. This project also has search functionality that lets the users search for students by their names. The pagination also updates according to number of search results as well.",
+			"technologies": ["HTML", "CSS", "JavaScript"],
+			"live_link": "https:///Nick810.github.io/list-pagination-and-filtering",
+			"github_link": "https://github.com/Nick810/list-pagination-and-filtering",
+			"image_urls": [
+				"/static/images/list-pagination-and-filtering_squared.png",
+				"/static/images/list-pagination-and-filtering_landscape01.png",
+				"/static/images/list-pagination-and-filtering_landscape02.png",
+				"/static/images/list-pagination-and-filtering_landscape03.png"
+			]
+		},
+		{
+			"id": 2,
+			"project_name": "Interactive Form",
+			"description": "In this project, I have to use JavaScript to enhance an interactive registration form for a fictional conference called \"FullStack Conf.\" My goal is to use jQuery to add customized and conditional behavior and interactivity and validating user input and providing helpful error messages when the user enters invalid information into the form fields. The form fields are live validated by using REGEX as well.",
+			"technologies": ["HTML", "CSS", "JavaScript", "REGEX", "jQuery"],
+			"live_link": "https:///Nick810.github.io/interactive-form",
+			"github_link": "https://github.com/Nick810/interactive-form",
+			"image_urls": [
+				"/static/images/interactive-form_squared.png",
+				"/static/images/interactive-form_landscape01.png",
+				"/static/images/interactive-form_landscape02.png",
+				"/static/images/interactive-form_landscape03.png"
+			]
+		},
+		{
+			"id": 3,
+			"project_name": "OOP Game Show App",
+			"description": "In this project, I have to create a browser-based, word guessing game: \"Phrase Hunter.\" JavaScript and OOP (Object-Oriented Programming) are used in the project to create functions for selecting a random, hidden phrase, which a player tries to guess, by clicking letters on an onscreen keyboard.",
+			"technologies": ["HTML", "CSS", "JavaScript"],
+			"live_link": "https:///Nick810.github.io/oop-game-show-app",
+			"github_link": "https://github.com/Nick810/oop-game-show-app",
+			"image_urls": [
+				"/static/images/oop-game-show-app_squared.png",
+				"/static/images/oop-game-show-app_landscape01.png",
+				"/static/images/oop-game-show-app_landscape02.png",
+				"/static/images/oop-game-show-app_landscape03.png"
+			]
+		},
+		{
+			"id": 4,
+			"project_name": "Public API Requests",
+			"description": "For this project, you'll build an app for a fictional company called Awesome Startup. I have to use the Random User Generator API (https://randomuser.me/) to grab information for 12 random “employees,” and use that data to build a prototype for an Awesome Startup employee directory. This project is also another jQuery based. Users can search for employees by their names and each users can be clicked to view their detailed information in modal as well.",
+			"technologies": ["HTML", "CSS", "JavaScript, jQuery"],
+			"live_link": "https:///Nick810.github.io/public-api-requests",
+			"github_link": "https://github.com/Nick810/public-api-requests",
+			"image_urls": [
+				"/static/images/public-api-requests_squared.png",
+				"/static/images/public-api-requests_landscape01.png",
+				"/static/images/public-api-requests_landscape02.png",
+				"/static/images/public-api-requests_landscape03.png"
+			]
+		}
+	]
+}
