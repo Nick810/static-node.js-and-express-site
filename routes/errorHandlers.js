@@ -1,5 +1,5 @@
 const handleFourOFour = (req, res, next) => {
-  const err = new Error('Not Found')
+  const err = new Error();
   err.status = 404;
   err.message = 'Looks like the page you\'re looking for doesn\'t exist.';
   console.error(err.message);

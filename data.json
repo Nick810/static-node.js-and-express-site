@@ -45,7 +45,7 @@
 		{
 			"id": 3,
 			"project_name": "OOP Game Show App",
-			"description": "In this project, I have to create a browser-based, word guessing game: \"Phrase Hunter.\" JavaScript and OOP (Object-Oriented Programming) are used in the project to create functions for selecting a random, hidden phrase, which a player tries to guess, by clicking letters on an onscreen keyboard.",
+			"description": "In this project, I have to create a browser-based, word guessing game: \"Phrase Hunter\" JavaScript and OOP (Object-Oriented Programming) are used in the project to create functions for selecting a random, hidden phrase, which a player tries to guess, by clicking letters on an onscreen keyboard.",
 			"technologies": ["HTML", "CSS", "JavaScript"],
 			"live_link": "https:///Nick810.github.io/oop-game-show-app",
 			"github_link": "https://github.com/Nick810/oop-game-show-app",
@@ -59,7 +59,7 @@
 		{
 			"id": 4,
 			"project_name": "Public API Requests",
-			"description": "For this project, you'll build an app for a fictional company called Awesome Startup. I have to use the Random User Generator API (https://randomuser.me/) to grab information for 12 random “employees,” and use that data to build a prototype for an Awesome Startup employee directory. This project is also another jQuery based. Users can search for employees by their names and each users can be clicked to view their detailed information in modal as well.",
+			"description": "For this project, you'll build an app for a fictional company called Awesome Startup. I have to use the Random User Generator API (https://randomuser.me/) to grab information for 12 random “employees” and use that data to build a prototype for an Awesome Startup employee directory. This project is also another jQuery based. Users can search for employees by their names and each users can be clicked to view their detailed information in modal as well.",
 			"technologies": ["HTML", "CSS", "JavaScript, jQuery"],
 			"live_link": "https:///Nick810.github.io/public-api-requests",
 			"github_link": "https://github.com/Nick810/public-api-requests",

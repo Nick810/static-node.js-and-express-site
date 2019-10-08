@@ -1,6 +1,7 @@
 extends layout.pug
 
 block content
-  h1 Oh Snaps!
-  p.page-not-found Page not found.
-  p= err.stack
+  .not-found-container
+    h1 Oh Snaps!
+    p.page-not-found Page not found.
+    p= err.stack

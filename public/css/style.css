@@ -32,6 +32,7 @@ h1,h2,h3,h4,h5,p{
 
 .button{
   background-color: #333;
+  border-radius: 5px;
 }
 
 .button:hover{
@@ -127,7 +128,17 @@ a:hover{
     margin-bottom: 15px;
   }
 
+  .portfolio-index .cell a img{
+    filter: blur(1px);
+  }
+
+  .portfolio-index .cell a img:hover{
+    filter: blur(0px);
+  }
+
     .portfolio-index .cell h5{
+      margin-top: 1em;
+      margin-bottom: 1.5em;
       letter-spacing: 1px;
     }
 
@@ -150,6 +161,18 @@ a:hover{
 
 .portfolio-bio{
     line-height: 25px;
+}
+
+.contact {
+  list-style-type: none;
+}
+
+.not-found-container {
+  margin: 2em;
+}
+
+.not-found-container p:nth-of-type(2) {
+  word-break: break-all;
 }
 
 .page-not-found {
