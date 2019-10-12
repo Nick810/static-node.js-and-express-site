@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "start": "open http://localhost:3000 && node app",
+    "start": "open-cli http://localhost:3000 && node app",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -14,5 +14,8 @@
     "express": "^4.17.1",
     "nodemon": "^1.19.3",
     "pug": "^2.0.4"
+  },
+  "devDependencies": {
+    "open-cli": "^5.0.0"
   }
 }
