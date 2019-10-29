@@ -218,3 +218,8 @@ a:hover{
 .title-bar {
   padding: 1.5rem;
 }
+
+.grid-container {
+  background: #fffbec;
+  box-shadow: 0px 9px 14px 200px rgba(255, 251, 236, 1);
+}
